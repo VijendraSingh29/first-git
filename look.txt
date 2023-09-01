@@ -1,3 +1,2 @@
 hi
-this is look file for configuration
-Added line in New branch1
+this is look file for configurationmovi
