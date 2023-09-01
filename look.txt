@@ -1,2 +1,2 @@
 hi
-this is look file for configurationmovi
+this is look file for configuration
